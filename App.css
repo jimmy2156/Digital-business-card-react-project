@@ -1,0 +1,210 @@
+* {
+ box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: black;
+}
+.card1 {
+  width: 550px;
+  height: 861px;
+  background: rgb(33, 35, 43);
+
+
+}
+.card2 {
+  width: 550px;
+  height: 861px;
+  background: rgb(33, 35, 43);
+ 
+
+}
+.App {
+  display: flex;
+  justify-content: space-around;
+}
+.container, .Main ,.Footer, .Header1, .Main1, .Footer1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.Bio {
+  background: rgb(26, 27, 33);
+  height: 466px;
+  margin-top: 2rem;
+}
+
+.jobtitle1 {
+   margin-left: 6.3rem;
+   color: rgb(243, 191, 153);
+   font-size: 12.8px;
+
+}
+.name1 {
+  margin-left: 5.5rem;
+  margin-top: 1rem;
+  font-size: 25px;
+  color: #fff;
+}
+.link1 {
+  display: inline-block;
+  margin-left: 6.3rem;
+  margin-top: 0.7rem;
+  color: #fff;
+  text-decoration: none;
+  font-size: small;
+}
+.button1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+
+}
+.mail1 {
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 0.6rem;
+}
+.mail1 > img {
+  margin-top: 0.3rem;
+  margin-right: 0.4rem;
+}
+.linkedin1 {
+  width: 115px;
+  height: 34px;
+  border-radius: 6px;
+  background: rgb(80, 147, 226);
+  margin-right: 0.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  color: #fff;
+}
+.linkedin1 > img {
+  margin-bottom: 0.2rem;
+  margin-right: 0.6rem;
+}
+.body1 {
+  background: rgb(26, 27, 33);
+  height: 240px;
+  width: 317px;
+  color: #fff;
+  padding: 20px 20px;
+}
+.p1 {
+  font-size: 10.24px;
+  padding: 7px 18px;
+  line-height: 15px;
+}
+.title1 {
+  font-size: 16px;
+  margin-left: 1.2rem;
+  margin-top: 0.4rem;
+}
+.p2 {
+  font-size: 10.24px;
+  padding: 7px 18px;
+  line-height: 15px;
+}
+.title2 {
+  font-size: 16px;
+  margin-left: 1.2rem;
+  margin-top: 0.4rem;
+}
+.footer {
+  background: rgb(22, 22, 25);
+  height: 64px;
+  width: 317px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 50px;
+}
+
+.header1 {
+  background: rgb(245, 245, 245);
+  width: 317px;
+  height: 470px;
+  margin-top: 2rem;
+  border-radius: 3px;
+}
+.name2 {
+  margin-top: 1rem;
+  margin-left: 5rem;
+  font-size: 25px;
+}
+.title5 {
+  margin-left: 5.5rem;
+  font-size: 12.8px;
+  color: rgb(244, 125, 39);
+}
+.link2 {
+  display: inline-block;
+  margin-left: 5.8rem;
+  margin-top: 0.5rem;
+  color: rgb(74, 78, 116);
+  text-decoration: none;
+  font-size: small;
+}
+.button2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+
+}
+.button11 {
+  height: 34px;
+  width: 247px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+.button11 > img {
+  margin-top: 0.2rem;
+  margin-right: 0.4rem;
+}
+.body2 {
+  width: 317px;
+  height: 230px;
+  background: rgb(245, 245, 245);
+  padding: 20px 20px;
+
+}
+.title7 {
+  font-size: 16px;
+  margin-left: 1.2rem;
+}
+.p7 {
+  font-size: 10.24px;
+  padding: 7px 18px;
+  line-height: 15px;
+}
+.title6 {
+  font-size: 16px;
+  margin-left: 1.2rem;
+  margin-top: 0.4rem;
+}
+.p6 {
+  font-size: 10.24px;
+  padding: 7px 18px;
+  line-height: 15px;
+}
+.footer2 {
+  background: rgb(213, 212, 216);
+  height: 64px;
+  width: 317px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 50px;
+}
